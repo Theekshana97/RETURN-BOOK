@@ -65,7 +65,7 @@ public class reserve_books extends javax.swing.JFrame {
 
         jLabel7.setFont(new java.awt.Font("Times New Roman", 1, 14)); // NOI18N
         jLabel7.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel7.setText("RESERVATION STATUS");
+        jLabel7.setText("RESERVATION STATUS.");
 
         jLabel6.setFont(new java.awt.Font("Times New Roman", 1, 11)); // NOI18N
         jLabel6.setForeground(new java.awt.Color(255, 255, 255));
